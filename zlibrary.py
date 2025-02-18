@@ -1,4 +1,5 @@
 import requests
+import json
 from typing import Union, Dict
 with open('config.json', 'r') as f: data = json.load(f)
 def getenv(var): return os.environ.get(var) or data.get(var, None)
