@@ -1,4 +1,9 @@
 EDIT. Fixing some dead link Work in progress
+Known issues: 
+
+libgen not working
+annas not working
+openlib not working
 
 # Ebooks Bot
 
