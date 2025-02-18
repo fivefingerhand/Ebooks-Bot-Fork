@@ -5,7 +5,7 @@ from pyrogram import Client
 from buttons import getButtons
 from os import remove
 
-DOMAIN = "https://annas-archive.gs"
+DOMAIN = "https://annas-archive.org"
 
 def getAnnasBooks(searchbook):
     params = {'q': searchbook}
