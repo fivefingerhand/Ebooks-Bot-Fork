@@ -3,8 +3,10 @@ EDIT.
 
 - Known issues: 
     - libgen not working
+          - libgen-api related
     - annas not working
     - openlib not working
+      
 
 # Ebooks Bot
 
