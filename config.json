@@ -6,7 +6,7 @@
     "REMIX_KEY":null,
     "Z_EMAIL":null,
     "Z_PASS":null,
-    "Z_DOMAIN":"1lib.sk", # modify if needed
+    "Z_DOMAIN":"1lib.sk", / modify if needed
     "IA_EMAIL":null,
     "IA_PASS":null
 }
