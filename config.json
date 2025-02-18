@@ -1,7 +1,7 @@
 {
-    "TOKEN":null,
-    "HASH":null,
-    "ID":null,
+    "BOT_TOKEN":null,
+    "API_HASH":null,
+    "API_ID":null,
     "REMIX_ID":null,
     "REMIX_KEY":null,
     "Z_EMAIL":null,
