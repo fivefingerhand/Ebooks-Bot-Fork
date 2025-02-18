@@ -1,8 +1,6 @@
 import requests
 from typing import Union, Dict
 
-
-
 class Zlibrary:
 
     def __init__(self, email: str = None, password: str = None, remix_userid: Union[int, str] = None, remix_userkey: str = None):
