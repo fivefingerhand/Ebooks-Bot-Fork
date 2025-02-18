@@ -1,11 +1,7 @@
-import os
 import requests
-import json
 from typing import Union, Dict
-with open('config.json', 'r') as f: data = json.load(f)
-def getenv(var): return os.environ.get(var) or data.get(var, None)
 
-z_domain = getenv("Z_DOMAIN")
+
 
 class Zlibrary:
 
@@ -15,7 +11,7 @@ class Zlibrary:
         self.__kindle_email: str
         self.__remix_userid: Union[int, str]
         self.__remix_userkey: str
-        self.__domain = z_domain
+        self.__domain = "1lib.sk"
         self.__logged = False
 
         self.__headers = {
